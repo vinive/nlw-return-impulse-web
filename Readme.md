@@ -2,8 +2,11 @@
     <img alt="logo-nlw" title="nlwreturn" src="assets-readme/nlw.svg" width="200px" />    
 </h1>
 
-<br>
+<p align="center">
+  <img alt="imagem do projeto" src="assets-readme/img.png">
+</p>
 
+<br>
 
 ## 💻 Projeto
 
