@@ -85,5 +85,5 @@ $ cp .env.local.example .env.local
 # Inicie a aplicação
 $ npm run dev
 ```
-
-Desenvolvido por [Vinicius](https://github.com/diego3g)
+ 
+Desenvolvido por [Vinicius](https://github.com/vinive) 👻
